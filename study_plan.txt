@@ -1,0 +1,23 @@
+================================
+       MY AI STUDY PLANNER
+================================
+Student name: Abu Hurerah
+AI learning goal: My AI learning goal is to master specific skills—like automation, coding, or data analysis—to build a tangible project or solve a practical real-world problem
+Study days per week: 4
+Daily study hours: 5
+Total weekly study hours: 20
+
+PERSONALIZED STUDY PLAN
+-----------------------
+Day 1: Learn a new concept and take notes (5 hour(s))
+Day 2: Watch a lesson or read a beginner tutorial (5 hour(s))
+Day 3: Practice with a small Python or AI-related exercise (5 hour(s))
+Day 4: Review previous notes and summarize what you learned (5 hour(s))
+
+Helpful tips:
+- Take short breaks during longer study sessions.
+- Practice regularly instead of only reading.
+- Adjust the activities to match your learning goal.
+- Review your progress at the end of each week.
+
+Good luck with your AI learning journey!
